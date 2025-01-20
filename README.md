@@ -27,7 +27,7 @@ Usage
 
 1. Clone the repository to your local machine:
 
-   git clone https://github.com/your-username/file-organizer.git
+   git clone https://github.com/RK-Datasans/file-organizer.git
 
 2. Navigate to the project directory:
 
